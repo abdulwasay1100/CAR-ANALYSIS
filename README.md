@@ -1,4 +1,4 @@
-# CAR-ANALYSIS
+# CAR-PRICE-ANALYSIS
 In this project, Ive done analysis on used car dataset available on eBay for best selling car according to milage and price of different brands in 5 phases 
 first phase: Read & look into data for encoding, 
 second phase: cleaning the data & assigning correct datatype,
